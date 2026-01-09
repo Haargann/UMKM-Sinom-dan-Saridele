@@ -79,6 +79,15 @@ section:first-of-type {
   flex: 1;
 }
 
+.divider {
+  border: none;
+  height: 0;
+  margin: 40px 0;
+  border-top: 3px dotted #edd3b5;
+}
+
+
+
 
 
 
