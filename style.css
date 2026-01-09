@@ -26,7 +26,7 @@ section {
   padding: 10px 10px;
   margin: 10px 0;
   border-top: 6px solid transparent;
-  border-image: linear-gradient(to right, #27ae60, #f1c40f);
+  border-image: linear-gradient(to right, #edd3b5, #ff914d);
   border-image-slice: 1;
 }
 
@@ -34,3 +34,4 @@ section:first-of-type {
   border-top: none;
   margin-top: 0;
 }
+
