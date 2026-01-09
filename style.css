@@ -19,7 +19,7 @@ header::before {
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 50px;
+  height: 10px;
   background: url("brush-top.png") no-repeat center top;
   background-size: cover;
   z-index: 1;
@@ -111,6 +111,7 @@ section h2 {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
