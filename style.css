@@ -1,10 +1,6 @@
-@font-face {
-  font-family: 'Coiny';
-  src: url('fonts/Coiny-Regular.ttf') format('truetype');
-}
 
 body {
-  font-family: 'Coiny';
+  font-family: Verdana, Geneva, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -34,5 +30,6 @@ section:first-of-type {
   border-top: none;
   margin-top: 0;
 }
+
 
 
