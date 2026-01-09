@@ -17,11 +17,11 @@ header {
 header::before {
   content: "";
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
   width: 100%;
   height: 100px;
-  background: url("brush-bottom.png") no-repeat center top;
+  background: url("brush-top.png") no-repeat center top;
   background-size: cover;
   z-index: 1;
 }
@@ -92,6 +92,7 @@ section:first-of-type {
   margin: 40px 0;
   border-top: 3px dotted #edd3b5;
 }
+
 
 
 
