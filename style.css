@@ -107,9 +107,13 @@ section h2 {
 }
 
 .tagline {
+  font-family: "Georgia", "Times New Roman", serif;
   font-style: italic;
-  opacity: 0.85;
+  font-size: 18px;
+  color: #4a2e1f;
 }
+
+
 
 
 
