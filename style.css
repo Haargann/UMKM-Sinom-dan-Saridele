@@ -62,7 +62,7 @@ section:first-of-type {
 }
 
 .logo {
-  width: 160px;
+  width: 200px;
   height: auto;
   transform: translateY(-20px);
 }
@@ -87,6 +87,7 @@ section:first-of-type {
   margin: 40px 0;
   border-top: 3px dotted #edd3b5;
 }
+
 
 
 
