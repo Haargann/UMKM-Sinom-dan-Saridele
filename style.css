@@ -32,12 +32,23 @@ footer {
 }
 
 section {
-  padding: 10px 10px;
-  margin: 10px 0;
-  border-top: 3px dotted #ff914d;
-  border-image: linear-gradient(to right, #edd3b5, #ff914d);
+  padding: 20px 10px;
+  margin: 20px 0;
+  border-top: 4px dashed transparent;
+  border-image: repeating-linear-gradient(
+    to right,
+    #edd3b5 0,
+    #edd3b5 12px,
+    transparent 12px,
+    transparent 24px,
+    #ff914d 24px,
+    #ff914d 36px,
+    transparent 36px,
+    transparent 48px
+  );
   border-image-slice: 1;
 }
+
 
 section:first-of-type {
   border-top: none;
@@ -67,6 +78,7 @@ section:first-of-type {
   text-align: center;
   flex: 1;
 }
+
 
 
 
