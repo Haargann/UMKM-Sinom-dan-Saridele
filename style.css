@@ -58,6 +58,12 @@ section:first-of-type {
   margin-top: 0;
 }
 
+section h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #932525;
+}
+
 .header-container {
   display: flex;
   align-items: center;
@@ -104,6 +110,7 @@ section:first-of-type {
   font-style: italic;
   opacity: 0.85;
 }
+
 
 
 
