@@ -62,9 +62,11 @@ section:first-of-type {
 }
 
 .logo {
-  width: 180px;
+  width: 160px;
   height: auto;
+  transform: translateY(-20px);
 }
+
 
 .logo.kiri {
   margin-left: 10px;
@@ -85,6 +87,7 @@ section:first-of-type {
   margin: 40px 0;
   border-top: 3px dotted #edd3b5;
 }
+
 
 
 
