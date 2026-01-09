@@ -43,17 +43,18 @@ section:first-of-type {
 }
 
 .logo.kiri {
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .logo.kanan {
-  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .judul {
   text-align: center;
   flex: 1;
 }
+
 
 
 
