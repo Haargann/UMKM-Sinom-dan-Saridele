@@ -38,7 +38,7 @@ section:first-of-type {
 }
 
 .logo {
-  width: 120px;
+  width: 180px;
   height: auto;
 }
 
@@ -54,6 +54,7 @@ section:first-of-type {
   text-align: center;
   flex: 1;
 }
+
 
 
 
