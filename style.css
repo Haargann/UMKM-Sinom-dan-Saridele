@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Negrita Pro';
-  src: url('fonts/NegritaPro-Regular.ttf') format('truetype');
+  font-family: 'Coiny';
+  src: url('fonts/Coiny-Regular.ttf') format('truetype');
 }
 
 body {
-  font-family: 'Negrita Pro', Arial, sans-serif;
+  font-family: 'Coiny';
   margin: 0;
   padding: 0;
 }
@@ -34,4 +34,5 @@ section:first-of-type {
   border-top: none;
   margin-top: 0;
 }
+
 
