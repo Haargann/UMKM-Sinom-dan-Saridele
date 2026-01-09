@@ -113,23 +113,24 @@ section h2 {
 }
 
 #tentang {
-  text-align: left;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px 15px;
 }
 
 #tentang h2 {
-  text-align: left;
+  text-align: center;
   font-size: 22px;
   margin-bottom: 10px;
 }
 
 #tentang p {
+  text-align: left;
   font-size: 14px;
   line-height: 1.7;
   color: #444;
 }
+
 
 
 
