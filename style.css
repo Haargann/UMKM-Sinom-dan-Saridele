@@ -1,12 +1,17 @@
+@font-face {
+  font-family: 'Negrita Pro';
+  src: url('fonts/NegritaPro-Regular.ttf') format('truetype');
+}
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Negrita Pro', Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background: #2e8b57;
-  color: white;
+  background: linear-gradient(to right, #edd3b5, #ff914d);
+  color: #4a2e1f;
   padding: 40px;
   text-align: center;
 }
@@ -25,10 +30,7 @@ section {
   border-image-slice: 1;
 }
 
-
-
-
-
-
-
-
+section:first-of-type {
+  border-top: none;
+  margin-top: 0;
+}
