@@ -102,9 +102,10 @@ section:first-of-type {
 
 .tagline {
   font-style: italic;
-  font-size: 18px;
-  color: #4a2e1f;
+  opacity: 0.85;
 }
+
+
 
 
 
