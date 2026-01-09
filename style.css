@@ -105,14 +105,14 @@ section h2 {
   margin-bottom: 10px;
 }
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
-
 .tagline {
-  font-family: 'Playfair Display', serif;
+  font-family: "Georgia", "Times New Roman", serif;
   font-style: italic;
   font-size: 18px;
   color: #4a2e1f;
 }
+
+
 
 
 
