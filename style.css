@@ -93,6 +93,19 @@ section:first-of-type {
   border-top: 3px dotted #edd3b5;
 }
 
+.judul-img {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-style: italic;
+  font-size: 18px;
+  color: #4a2e1f;
+}
+
 
 
 
