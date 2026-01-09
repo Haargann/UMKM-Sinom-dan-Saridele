@@ -21,7 +21,6 @@ footer {
 section {
   padding: 10px 10px;
   margin: 10px 0;
-  background: #3e290e;
   border-top: 6px solid transparent;
   border-image: linear-gradient(to right, #edd3b5, #ff914d);
   border-image-slice: 1;
@@ -55,6 +54,7 @@ section:first-of-type {
   text-align: center;
   flex: 1;
 }
+
 
 
 
