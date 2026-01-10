@@ -66,11 +66,11 @@ section h2 {
   margin-bottom: 12px;
 }
 
-section p {
+section p, section /p {
   text-align: justify;
   font-size: 14px;
   line-height: 1.7;
-  margin: 0 auto;
+  margin-bottom: 18px;
 }
 
 section ul {
@@ -127,6 +127,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
