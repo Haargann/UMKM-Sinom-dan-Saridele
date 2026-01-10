@@ -99,7 +99,7 @@ section h2 {
 }
 
 .judul-img {
-  max-width: 720px;
+  max-width: 600px;
   width: 100%;
   height: auto;
   margin-bottom: 10px;
@@ -112,24 +112,7 @@ section h2 {
   color: #4a2e1f;
 }
 
-#tentang {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px 15px;
-}
 
-#tentang h2 {
-  text-align: center;
-  font-size: 22px;
-  margin-bottom: 10px;
-}
-
-#tentang p {
-  text-align: left;
-  font-size: 14px;
-  line-height: 1.7;
-  color: #444;
-}
 
 
 
