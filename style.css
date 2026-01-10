@@ -49,6 +49,7 @@ section {
     transparent 48px
   );
   border-image-slice: 1;
+  max-width: 900px;
 }
 
 
@@ -61,6 +62,21 @@ section h2 {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #932525;
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+
+section p {
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+section ul {
+  list-style-position: inside;
+  padding: 0;
+  font-size: 14px;
 }
 
 .header-container {
@@ -112,24 +128,7 @@ section h2 {
   color: #4a2e1f;
 }
 
-#tentang {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px 15px;
-}
 
-#tentang h2 {
-  text-align: center;
-  font-size: 22px;
-  margin-bottom: 10px;
-}
-
-#tentang p {
-  text-align: left;
-  font-size: 14px;
-  line-height: 1.7;
-  color: #444;
-}
 
 
 
