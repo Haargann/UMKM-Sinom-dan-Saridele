@@ -49,7 +49,7 @@ section {
     transparent 48px
   );
   border-image-slice: 1;
-  max-width: 900px;
+  max-width: 800px;
 }
 
 section:first-of-type {
@@ -127,6 +127,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
