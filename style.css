@@ -112,6 +112,23 @@ section h2 {
   color: #4a2e1f;
 }
 
+#tentang {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 15px;
+}
+
+#tentang h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+#tentang p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #444;
+}
 
 
 
