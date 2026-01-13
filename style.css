@@ -147,6 +147,52 @@ section ul {
   border-radius: 8px;
 }
 
+#testimoni h2 {
+  text-align: center;
+  color: #932525;
+}
+
+.testimoni-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.testimoni-card {
+  background: #fff;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  font-size: 14px;
+}
+
+.testimoni-card .isi {
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.testimoni-card .nama {
+  font-weight: bold;
+  color: #555;
+}
+
+.testimoni-card .bintang {
+  font-size: 18px;
+}
+
+.testimoni-card.highlight {
+  background: #fff7ed;
+  border: 2px dashed #ff914d;
+  text-align: center;
+}
+
+.testimoni-card .jawa {
+  font-style: italic;
+}
+
+
 
 
 
