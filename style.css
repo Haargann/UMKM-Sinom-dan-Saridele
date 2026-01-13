@@ -2,9 +2,6 @@ body {
   font-family: Verdana, Geneva, sans-serif;
   margin: 0;
   padding: 0;
-}
-
-body::before {
   content: "";
   position: fixed;
   inset: 0;
@@ -138,6 +135,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
