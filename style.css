@@ -18,7 +18,7 @@ header {
   position: relative;
   background: linear-gradient(135deg, #edd3b5, #ff914d);
   color: #4a2e1f;
-  padding: 45px 40px 85px;
+  padding: 45px 40px 45px;
   text-align: center;
   overflow: hidden;
 }
@@ -138,6 +138,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
