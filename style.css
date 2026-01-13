@@ -10,7 +10,7 @@ body::before {
   inset: 0;
   background-image: url("Background.png");
   background-repeat: repeat;
-  backgorund-size: 10px auto;
+  backgorund-size: 200px auto;
   z-index: -1;
 }
 
@@ -138,6 +138,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
