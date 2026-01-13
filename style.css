@@ -8,7 +8,7 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background-image: url("background.png");
+  background-image: url("Background.png");
   background-repeat: repeat;
   opacity: 0.13;
   z-index: -1;
@@ -138,6 +138,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
