@@ -4,6 +4,16 @@ body {
   padding: 0;
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("background.png");
+  background-repeat: repeat;
+  opacity: 0.12;
+  z-index: -1;
+}
+
 header {
   position: relative;
   background: linear-gradient(135deg, #edd3b5, #ff914d);
@@ -128,6 +138,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
