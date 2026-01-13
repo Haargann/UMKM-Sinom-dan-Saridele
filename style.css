@@ -140,6 +140,13 @@ section ul {
   color: #4a2e1f;
 }
 
+.produk-img {
+  display: block;
+  max-width: 220px;     /* atur ukuran */
+  margin: 12px auto;    /* tengah + jarak */
+  border-radius: 8px;
+}
+
 
 
 
