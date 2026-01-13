@@ -142,10 +142,11 @@ section ul {
 
 .produk-img {
   display: block;
-  max-width: 220px;     /* atur ukuran */
+  max-width: 320px;     /* atur ukuran */
   margin: 12px auto;    /* tengah + jarak */
   border-radius: 8px;
 }
+
 
 
 
