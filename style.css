@@ -4,15 +4,15 @@ body {
 }
 
 body::before {
-  padding: 0;
   content: "";
   position: fixed;
   inset: 0;
   background-image: url("Background.png");
   background-repeat: repeat;
-  backgorund-size: 200px;
+  background-size: 220px auto; ;
   z-index: -1;
 }
+
 
 header {
   position: relative;
@@ -138,6 +138,7 @@ section ul {
   font-size: 18px;
   color: #4a2e1f;
 }
+
 
 
 
